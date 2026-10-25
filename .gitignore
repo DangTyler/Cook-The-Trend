@@ -1,0 +1,4 @@
+﻿build/push/
+captures/frames_*/
+*.tmp
+

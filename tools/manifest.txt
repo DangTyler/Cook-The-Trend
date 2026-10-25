@@ -1,0 +1,17 @@
+# local file | Studio dot path | class
+src/shared/Config.luau | game.ReplicatedStorage.CTT.Config | ModuleScript
+src/shared/Recipes.luau | game.ReplicatedStorage.CTT.Recipes | ModuleScript
+src/shared/StepMath.luau | game.ReplicatedStorage.CTT.StepMath | ModuleScript
+src/shared/Dish.luau | game.ReplicatedStorage.CTT.Dish | ModuleScript
+src/server/CTTServer.server.luau | game.ServerScriptService.CTTServer | Script
+src/client/UI.luau | game.ReplicatedStorage.CTT.Client.UI | ModuleScript
+src/client/Sfx.luau | game.ReplicatedStorage.CTT.Client.Sfx | ModuleScript
+src/client/Fx.luau | game.ReplicatedStorage.CTT.Client.Fx | ModuleScript
+src/client/Feed.luau | game.ReplicatedStorage.CTT.Client.Feed | ModuleScript
+src/client/Hud.luau | game.ReplicatedStorage.CTT.Client.Hud | ModuleScript
+src/client/Kitchen.luau | game.ReplicatedStorage.CTT.Client.Kitchen | ModuleScript
+src/client/Results.luau | game.ReplicatedStorage.CTT.Client.Results | ModuleScript
+src/client/CTTClient.client.luau | game.StarterPlayer.StarterPlayerScripts.CTTClient | LocalScript
+src/shared/Coach.luau | game.ReplicatedStorage.CTT.Coach | ModuleScript
+src/client/RecipeSheet.luau | game.ReplicatedStorage.CTT.Client.RecipeSheet | ModuleScript
+src/client/FruitMesh.luau | game.ReplicatedStorage.CTT.Client.FruitMesh | ModuleScript

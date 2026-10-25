@@ -1,0 +1,1 @@
+﻿local pot = game.ReplicatedStorage.CTTAssets.pot local w = pot:FindFirstChild("Water") if w then w.Transparency = 0.62 end local b = pot:FindFirstChild("WaterBody") if b then b.Transparency = 0.86 end return "ok"
