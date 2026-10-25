@@ -41,3 +41,10 @@ To rebuild from this repo into a place:
 3. Game Settings → Security: enable **Allow Mesh / Image APIs** (needed for real slicing) and **API Services** (persistence).
 
 Note: the AI-generated food meshes in `ReplicatedStorage.CTTAssets` live in the place itself. The code falls back to built-in procedural models when they're missing.
+## License
+
+This project is open source under the MIT License.
+
+See [LICENSE](LICENSE) for details.
+
+Contributions, issues, and pull requests are welcome!
